@@ -1,1 +1,1 @@
-Our work is about using physics-informed deep learning to learn fluid dynamics. We have already sumbitted our work to IEEE Trans and are waiting for the result. When the papaer is accepted, we will upload our relative code and data here. 
+Our work is about using physics-informed deep learning to learn fluid dynamics. We have already sumbitted our work to the journal and are waiting for the result. When the papaer is accepted, we will upload our relative code and data here. 
