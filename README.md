@@ -1,1 +1,1 @@
-Our work is about using physics-informed deep learning to learn fluid dynamics. Experimental results are conducted on both synthetic and real-world problems (3D human artery). We have already sumbitted our work to IEEE trans and we are waiting for the result. When the papaer is accepted, we will upload our relative codes and data here. 
+Our work is about using physics-informed deep learning to learn fluid dynamics. We have already sumbitted our work to IEEE Trans and are waiting for the result. When the papaer is accepted, we will upload our relative code and data here. 
